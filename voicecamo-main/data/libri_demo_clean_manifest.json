@@ -1,0 +1,9 @@
+{"root_path": "/home/pulkit/Downloads/CS753/hacker/voicecamo-main/data/LibriSpeech_dataset/test_clean",
+"samples": [
+{"wav_path": "wav/260-123286-0003.wav", "transcript_path": "txt/260-123286-0003.txt"},
+{"wav_path": "wav/260-123286-0004.wav", "transcript_path": "txt/260-123286-0004.txt"},
+{"wav_path": "wav/260-123286-0005.wav", "transcript_path": "txt/260-123286-0005.txt"},
+{"wav_path": "wav/260-123286-0006.wav", "transcript_path": "txt/260-123286-0006.txt"},
+{"wav_path": "wav/260-123286-0009.wav", "transcript_path": "txt/260-123286-0009.txt"},
+{"wav_path": "wav/260-123286-0011.wav", "transcript_path": "txt/260-123286-0011.txt"}
+]}
