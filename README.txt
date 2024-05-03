@@ -4,3 +4,5 @@ Go inside the directory voicecamo-main and run the run_inference.py file.
 It will give some output text - representing correct text, camouflaged text which is decoded incorrectly by the ASR model, and the clean text which is decoded by the ASR.
 
 There is another inference version for finding WER. For this version you require more data. You can take this data from us. The data is from LibriSpeech. 
+results.txt contains the clean and attacked WER and CER for the Camouflage inference code. 
+demo_samples contain some demo sentences and their clean and attacked camouflage inference sentences. 
